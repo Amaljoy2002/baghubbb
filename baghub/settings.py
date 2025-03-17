@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 
 LOGIN_URL = '/login/'  # Default login URL
-LOGIN_REDIRECT_URL = '/'  # Redirect to home page after login
+LOGIN_REDIRECT_URL = '/'  
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
