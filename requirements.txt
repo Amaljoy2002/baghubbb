@@ -8,3 +8,4 @@ django-crispy-forms==2.0
 djangorestframework==3.14.0
 pyodbc
 mssql-django
+whitenoise==6.9.0
